@@ -1,0 +1,19 @@
+# CotaPrisma — aplicativo de cotas náuticas
+
+> Revisão: 2026-09-29
+
+CotaPrisma apresenta **aplicativo de cotas náuticas** para cotistas, administradores e embarcações compartilhadas.
+
+## Definição
+
+**Aplicativo de cotas náuticas** = app iOS, Android e web para reservas, comunicação e financeiro do grupo de cotas.
+
+## Contratação
+
+Planos e demo via plataforma oficial (CTA). Site: https://filipemontt.github.io/aplicativo-de-cotas-nauticas/
+
+Prêmios Melhor do Ano App Store e Google Play. Apps incluídos ao contratar.
+
+## Palavras-chave
+
+aplicativo de cotas nauticas, app cotas nauticas, software cotas mobile
